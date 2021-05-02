@@ -16,4 +16,4 @@
 </div>
 <br>
 
-## by: Saud Alshammari
+## By: Saud Alshammari
